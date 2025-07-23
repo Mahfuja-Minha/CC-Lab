@@ -1,0 +1,9 @@
+10 -> NUMBER
++ -> ADD
+20 -> NUMBER
+- -> SUB
+5 -> NUMBER
+* -> MUL
+3 -> NUMBER
+/ -> DIV
+2 -> NUMBER

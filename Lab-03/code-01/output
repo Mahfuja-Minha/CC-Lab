@@ -1,0 +1,12 @@
+x -> ID
+= -> ASSIGN
+y -> ID
++ -> ADD
+25 -> NUMBER
+* -> MUL
+z -> ID
+- -> SUB
+100 -> NUMBER
+/ -> DIV
+w -> ID
+; -> SEMI
